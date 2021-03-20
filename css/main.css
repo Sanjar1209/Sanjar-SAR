@@ -26,7 +26,7 @@ ul {
 /* header start */
 
 .header {
-    background: dodgerblue;
+    background: silver;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
